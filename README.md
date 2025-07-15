@@ -32,23 +32,28 @@ A fun and interactive math puzzle game built using **Streamlit**! Designed for s
   cd math-puzzle-game
 
 2. (Optional but recommended) Create and activate a virtual environment:
+
 ```bash
   python -m venv venv
   venv\Scripts\activate       # On Windows
   source venv/bin/activate    # On macOS/Linux
 
 3. Install dependencies:
+
 ```bash
   pip install streamlit
 
 4. Run the Streamlit app:
+
 ```bash
-  streamlit run app.py
+        streamlit run app.py
 
 ## 🎥 Demo
+
 🔗 Click here to view a recorded demo of the app: https://drive.google.com/drive/folders/1YrDOlJcH51bo7ltXZ-USwK-paXbbIpvA?usp=sharing
 
 📁 Project Structure
+
 ```bash
   math-puzzle-game/
   │
